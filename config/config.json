@@ -1,0 +1,5 @@
+{
+  "wandb": {
+    "subscription_key" : "<YOUR_SUBSCRIPTION_KEY>"
+  }
+}
